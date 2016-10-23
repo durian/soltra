@@ -1,0 +1,35 @@
+/* Alternate stack initial positioning. */
+.ui-pnotify.stack-topleft {
+	top: 25px;
+	left: 240px;
+	right: auto;
+}
+
+h4, h5, h6 { margin: 0;}
+.ui-widget {
+  font-size: 80%;
+}
+
+
+.contentwrapper {
+	padding-top: 50px;
+	height: 600px;
+}
+
+td {
+	color: #ffffff;
+	padding-right: 30px;
+	padding-top: 5px
+}
+
+input {
+	width: 175px;
+}
+
+label {
+	color: #ffffff;
+}
+
+ul {
+	padding-top: 6px;
+}

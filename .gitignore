@@ -1,0 +1,10 @@
+*~
+*.txt
+*.tar
+DataTables/
+DataTables-1.9.4/
+.DS_Store
+pnotify/
+jquery-ui/
+*.sql
+*_ORIG
